@@ -1,4 +1,4 @@
-# laravel-8-multi-auth
+# Laravel 8 Multi Auth (Authentication)
 
 Step 1: Install Laravel 8
 
